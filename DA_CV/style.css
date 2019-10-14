@@ -1,0 +1,36 @@
+.class{
+    color: blue;
+}
+
+.tag{
+    font: italic bold 15px/30px Georgia, serif;
+    display: inline;
+    margin-right: 50px;
+}
+
+#info{
+    display: inline-block;
+}
+
+#leftside{
+    display: block;
+    float: left;
+    width: 550px;
+    padding: 5px;
+}
+
+#rightside{
+    display: block;
+    float: left;
+}
+
+.newline{
+    padding: 40px;
+}
+
+.date{
+    margin-right: 100px;
+}
+.school{
+    font: bold 15px/30px Georgia, serif;
+}
