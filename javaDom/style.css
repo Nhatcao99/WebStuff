@@ -1,0 +1,20 @@
+#tbl{
+    border: solid 1px #000000;
+    border-collapse:collapse;
+}
+
+#tbl td, th{
+    border: solid 1px #000000;
+}
+
+#tbl thead{
+    background-color: crimson;
+}
+
+#tbl tr.oddr{
+    background-color: bisque;
+}
+
+#tbl tr.evenr{
+    background-color: aquamarine;
+}
